@@ -1,5 +1,10 @@
 #! /bin/bash
 
+#argument 1 is barcode directory
+#argument 2 is fastqc directory
+#argument 3 is multiqc/raw directory
+
+
 source activate genomics
 
 directory="$(realpath $1)"
