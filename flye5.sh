@@ -11,12 +11,12 @@ date
 
 #for max 5 directories of fastq reads
 
-#flye --nano-raw $1/* $3/* $4/* $5/* $6/* -o $2
+flye --nano-raw $1/* $2/* $3/* $4/* $5/* -o $6
 
 
 #for 1 directory of fastq reads
 
-flye --nano-raw $1/* -o $2
+#flye --nano-raw $1/* -o $2
 
 
 date
