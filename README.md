@@ -1,6 +1,7 @@
 # GEN_711-Project
 
 By: Rain Bugado
+
 My project will be assembling the genome of an unknown fish from the Oyster River in order to identify its origin, what species it is, and if it is a hybrid.
 
 ## Background
