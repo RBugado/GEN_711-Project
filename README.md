@@ -26,9 +26,9 @@ Programs:
 
 ## Results
 
-![synteny](figures/mf-synteny.png) 
+![synteny](figures/mf-synteny-small.png) 
 
-![phylogeny](figures/mf-phylogeny.png)
+![phylogeny](figures/mf-phylogeny-small.png)
 
 
 ## Citations
