@@ -1,10 +1,11 @@
 # GEN_711-Project
 
+By: Rain Bugado
 My project will be assembling the genome of an unknown fish from the Oyster River in order to identify its origin, what species it is, and if it is a hybrid.
 
 ## Background
 
-This data originated from me. An unknown fish was caught in the Oyster River by New Hampshire Fish and Game, and I used Oxford Nanopore Technologies GridION to sequence its genome. My goal was to determine the species of the unknown fish, as well as if it is a hybrid. This is important because fish hybridization can make habitat management difficult, as it's hard to estimate the numbers and range of a particular species. New Hampshire Fish and Game suspected that this individual was a blueback herring (_Alosa aestivalis_) however it also showed some shad characteristics not found in blueback herring typically.
+This data originated from me. An unknown fish was caught in the Oyster River by New Hampshire Fish and Game, and I extracted DNA using the Monarch® HMW DNA Extraction Kit for Tissue. I used the Rapid Barcoding Kit 24 V14 for library prep, and then I used Oxford Nanopore Technologies GridION to sequence its genome. My goal was to determine the species of the unknown fish, as well as if it is a hybrid. This is important because fish hybridization can make habitat management difficult, as it's hard to estimate the numbers and range of a particular species. New Hampshire Fish and Game suspected that this individual was a blueback herring (_Alosa aestivalis_) however it also showed some shad characteristics not found in blueback herring typically.
 
 ## Methods
 
