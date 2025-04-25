@@ -8,3 +8,7 @@ This data originated from me. An unknown fish was caught in the Oyster River by 
 
 ## Methods
 
+* Data originated from my sequencing project.
+* Data is long read Nanopore sequences, whole genome not a specific metabarcode.
+* Analyses were performed on RON as well as using web-based programs.
+
