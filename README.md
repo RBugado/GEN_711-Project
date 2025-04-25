@@ -26,10 +26,11 @@ Programs:
 
 ## Results
 
-![synteny](figures/mf-synteny-small.png) 
-
 ![phylogeny](figures/mf-phylogeny-small.png)
+Figure 1. Phylogentic tree with the degrees of similarity between the unknown fish mitochondrial genome and the mitochondrial genomes of five related fish (_A. aestivalis, A. pseudoharengus, A. mediocris, A. sapidissima,_ and _Clupea harengus_). This tree was created through MAFFT with the input of the six mitochondrial genomes (fasta files). This tree shows that the mitochondrial genome of the unknown fish is most closely related to that of _A. aestivalis_, though it is also close to the other _Alosa_ fish.
 
+![synteny](figures/mf-synteny-small.png) 
+Figure 2. Synteny plot of mitchondrial genomes of the unknown fish and _Alosa aestivalis_ (blueback herring). Shows the degree of similarity between the two mitochondrial genomes. This plot was created through MAFFT, with the input of the two mitochondrial genomes (fasta files). This synteny plot shows that the genomes are almost one to one, however the unknown fish genome is in the reverse direction, and there seems to be a break in it, although it is a continuous contig.
 
 ## Citations
 
