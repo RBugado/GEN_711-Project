@@ -26,7 +26,9 @@ Programs:
 
 ## Results
 
+![test](figures/synteny.png)
 
+![test2](figures/phylogenetic-tree)
 
 
 ## Citations
