@@ -24,7 +24,7 @@ Programs:
 * blast
   * This bash program compares the contigs made from the genome to the known database of genomes in order to identify the possible species that the genome might be. This also helps to identify which contigs are not from the fish (AKA human or bacterial DNA) so that it can be removed. Output is a text file.
 * MAFFT v.7
-  * This browser program does multiple alignment for genome sequences. It outputs a phylogenetic tree of the sequences input, as well as a synteny plot. To use this program, I took the mitchondrial genome (contig 70) of my unknown fish, as well as downloading mitochondrial data for closely related fish found in the area to the suspected identity of this fish. This program is how I visualized my data.
+  * This browser program does multiple alignment for genome sequences. It outputs a phylogenetic tree of the sequences input, as well as a synteny plot. To use this program, I took the mitchondrial genome (contig 70) of my unknown fish, as well as downloading mitochondrial data for closely related fish found in the area to the suspected identity of this fish. This program is how I visualized my data. I used the default paramaters, except for the direction of nucleotide sequences, which I used "Adjust direction according to the first sequence (only for highly divergent data; extremely slow)"
 
 ## Results
 
