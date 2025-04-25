@@ -1,6 +1,6 @@
 #! /bin/bash
 
-#argument 1 is barcode directory
+#argument 1 is barcode directory (location of fastq files)
 #argument 2 is fastqc directory
 #argument 3 is multiqc/raw directory
 
